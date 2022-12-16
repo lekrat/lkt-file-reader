@@ -1,5 +1,5 @@
 {
-	"name": "lkt/lkt-file-reader",
+	"name": "lkt/file-reader",
 	"version": "1.0.0",
 	"description": "A simple file reader. PHP 8.1+",
 	"homepage": "https://github.com/lkt/lkt-file-reader",
