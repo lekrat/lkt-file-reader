@@ -12,12 +12,6 @@
 
 namespace chillerlan\Filereader\Drivers;
 
-/**
- * @todo
- *
- * writeFile
- *
- */
 interface FSDriverInterface{
 
 	/**

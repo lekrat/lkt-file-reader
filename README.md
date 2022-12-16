@@ -1,3 +1,11 @@
+# lkt/file-reader
+
+This is a fork of [chillerlan/php-filereader](https://github.com/chillerlan/php-filereader).
+
+It was forked as soon I realize chillerlan/php-filereader last update was 4 years ago. 
+
+I like this package, and now supports php 8.1
+
 # chillerlan/php-filereader
 A simple file/directory reader for all (well, most... ok. some.) of your file-reading needs.
 
@@ -25,7 +33,7 @@ A simple file/directory reader for all (well, most... ok. some.) of your file-re
 [donate]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WLYUNAT9ZTJZ4
 
 # Requirements
-- PHP 7.2+
+- PHP 8.1+
 
 # Documentation
 

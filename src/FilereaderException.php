@@ -12,9 +12,6 @@
 
 namespace chillerlan\Filereader;
 
-/**
- *
- */
 class FilereaderException extends \Exception{
 
 }

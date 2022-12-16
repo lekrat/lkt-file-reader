@@ -1,7 +1,8 @@
 {
-	"name": "chillerlan/php-filereader",
-	"description": "A simple filereader. PHP 7.2+",
-	"homepage": "https://github.com/chillerlan/php-filereader",
+	"name": "lkt/lkt-file-reader",
+	"version": "1.0.0",
+	"description": "A simple file reader. PHP 8.1+",
+	"homepage": "https://github.com/lkt/lkt-file-reader",
 	"license": "MIT",
 	"type": "library",
 	"authors": [
@@ -12,15 +13,15 @@
 		}
 	],
 	"support": {
-		"issues": "https://github.com/chillerlan/php-filereader/issues",
-		"source": "https://github.com/chillerlan/php-filereader"
+		"issues": "https://github.com/lkt/lkt-file-reader/issues",
+		"source": "https://github.com/lkt/lkt-file-reader"
 	},
 	"minimum-stability": "stable",
 	"require": {
-		"php": "^7.2"
+		"php": "^8.1"
 	},
 	"require-dev": {
-		"phpunit/phpunit": "^8.0"
+		"phpunit/phpunit": "^9.5"
 	},
 	"autoload": {
 		"psr-4": {

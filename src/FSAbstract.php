@@ -14,9 +14,6 @@ namespace chillerlan\Filereader;
 
 use chillerlan\Filereader\Drivers\FSDriverInterface;
 
-/**
- * @property string $path
- */
 abstract class FSAbstract implements FSInterface{
 
 	/**

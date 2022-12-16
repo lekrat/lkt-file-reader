@@ -15,9 +15,7 @@ namespace chillerlan\Filereader\Drivers;
 use chillerlan\Filereader\FilereaderException;
 use stdClass;
 
-/**
- *
- */
+
 class DiskDriver implements FSDriverInterface{
 
 	/**
